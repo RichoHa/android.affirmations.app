@@ -19,5 +19,6 @@ class Datasource {
             Affirmation(R.string.affirmation9),
             Affirmation(R.string.affirmation10)
         )
+
     }
 }
